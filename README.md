@@ -8,6 +8,7 @@ I prefer Node.js with PostgreSQL and MongoDB on backend 😎. I'm currently work
 ## **About me:**
 * 😊 Fun fact: I'm a python developer focused on data science
 * 👀 I'm looking to collaborate in data science projects
+* 📖 I'm currently studying for a master's degree in data science
 
 <img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXNjMnM0NzUwN3pwc210M3FwZ3k2NDkzYWoyNGZyYm90Z21udW85ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/STQ7NZopWAUZK4SiO9/giphy.gif"  />
 
