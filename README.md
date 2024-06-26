@@ -15,7 +15,7 @@ I prefer Node.js with PostgreSQL and MongoDB on backend 😎. I'm currently work
 * 1 + years of experience in Node.js, React
 * HTML/CSS, Javascript
 * git
-* Python, JavaScript
+* Python, C++, C#
 * MongoDB, PostgreSQL, MySQL, SQL Server, SQL ...
 * ✨ VMware, Hyper-V
 * Transformers and Neural Networks
